@@ -22284,16 +22284,16 @@ var iu = Cc()({
     meta: [
       { charSet: `utf-8` },
       { name: `viewport`, content: `width=device-width, initial-scale=1` },
-      { title: `Naina's Birthday Surprise` },
+      { title: `Sara's Birthday Surprise` },
       {
         name: `description`,
-        content: `An interactive birthday surprise for Naina`,
+        content: `An interactive birthday surprise for Sara`,
       },
       { name: `author`, content: `Rimsha Shahzaman` },
-      { property: `og:title`, content: `Naina's Birthday Surprise` },
+      { property: `og:title`, content: `Sara's Birthday Surprise` },
       {
         property: `og:description`,
-        content: `An interactive birthday surprise for Naina`,
+        content: `An interactive birthday surprise for Sara`,
       },
       { property: `og:type`, content: `website` },
       { name: `twitter:card`, content: `summary_large_image` },
@@ -22383,7 +22383,7 @@ var su = `modulepreload`,
     });
   },
   du = () => uu(() => import(`./routes-BzHYpPXZ.js`), []),
-  fu = `Happiest 18th Birthday, NAINA, An 8 Chapter Surprise`,
+  fu = `Happiest 18th Birthday, SARA, An 8 Chapter Surprise`,
   pu = `An interactive birthday surprise: locked screen, letter, scratch card, love meter, cake, fireworks, a Memory ATM, cake cutting and a final gift.`,
   mu = {
     IndexRoute: Ec(`/`)({

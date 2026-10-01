@@ -5,7 +5,7 @@
    renders like any other chapter.
    ===================================================================== */
 (function () {
-  const NAME = "NAINA";
+  const NAME = "SARA";
   const ATM_BG = window.BDY_ATM_BG || "";
 
   /* small helper: run a binder right after the HTML lands in the stage */
@@ -14,7 +14,7 @@
   /* =================================================================
      CHAPTER · MEMORY ATM
      ================================================================= */
-  const PIN = "04102008";
+  const PIN = "0410";
   const MEMORIES = [
     { img: "/assets/images/atm/photo-1.jpg", caption: "Favorite Photo ❤️" },
     { img: "/assets/images/atm/photo-2.jpg", caption: "Looking Good ✨" },
@@ -111,7 +111,7 @@
         <div class="atm-card" id="atm-card" role="button" tabindex="0">
           <span class="card-bank">PHOTO BANK</span>
           <span class="chip"></span>
-          <span class="card-name">Naina • ∞ Love</span>
+          <span class="card-name">Sara • ∞ Love</span>
         </div>
         <span class="card-hint" id="card-hint">tap the card to slide it into the slot</span>
         <div class="receipt-paper hidden" id="receipt-paper"></div>
@@ -178,7 +178,7 @@
     function screenHTML() {
       switch (state.step) {
         case "insert":
-          return `<h4>WELCOME TO PHOTO BANK</h4><p>Please insert your card</p><small>Naina • 20 • 2026</small>`;
+          return `<h4>WELCOME TO PHOTO BANK</h4><p>Please insert your card</p><small>Sara • 10 • 2026</small>`;
         case "reading":
           return `<h4>READING CARD…</h4><div class="atm-progress"><span style="width:${state.progress}%"></span></div><p>Please Wait…</p>`;
         case "pin":
@@ -863,7 +863,7 @@
       ctx.font = `600 ${Math.round(radius * 0.42)}px Georgia`;
       ctx.textAlign = "center";
       ctx.textBaseline = "middle";
-      if (cuts.length === 0) ctx.fillText("20", cx, cy);
+      if (cuts.length === 0) ctx.fillText("18", cx, cy);
       ctx.restore();
 
       /* candles */
