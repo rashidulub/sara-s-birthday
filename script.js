@@ -196,10 +196,9 @@ function experienceShellHTML() {
   return `
   <main class="experience-shell">
     ${floatingDecorHTML()}
-    <header class="journey-header">
-      <button class="music-button" id="music-button" aria-label="Pause music"></button>
-    </header>
+    
     <section class="page-stage" id="page-stage"></section>
+    
     <nav class="page-nav">
       <button class="nav-button secondary" id="nav-back">Back</button>
       <div class="page-label">
