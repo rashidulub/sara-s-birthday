@@ -174,7 +174,7 @@ function loadingScreenHTML() {
       <span class="orbit orbit-two"><i data-lucide="sparkles" size="15"></i></span>
     </div>
     <h2>Unlocking your little universe</h2>
-    <p>Gathering hugs, wishes and twenty tiny stars</p>
+    <p>Gathering hugs, wishes and eighteen tiny stars</p>
     <div class="loading-track"><span></span></div>
   </main>`;
 }
@@ -357,17 +357,17 @@ function renderPage() {
 function WelcomePage() {
   return `
   <div class="welcome-page page-content">
-    <div class="date-stamp">25 AUGUST 2026</div>
+    <div class="date-stamp">04 October 2026</div>
     <div class="hero-copy">
-      <p class="eyebrow">The world got brighter twenty years ago</p>
-      <h1>Happiest<br/><em>20th</em> Birthday</h1>
+      <p class="eyebrow">The world got brighter eighteen years ago</p>
+      <h1>Happiest<br/><em>18th</em> Birthday</h1>
       <div class="name-ribbon">${NAME}</div>
       <p class="hero-note">To someone special. My love, my favorite person, and the reason ordinary days feel magical.</p>
     </div>
     <div class="hero-art" aria-hidden="true">
       <div class="big-heart"><i data-lucide="heart" fill="currentColor"></i></div>
       <span class="tape tape-one"></span>
-      <span class="scribble">twenty looks perfect on you</span>
+      <span class="scribble">eighteen looks perfect on you</span>
       <div class="mini-card mini-card-one"><i data-lucide="cake-slice"></i></div>
       <div class="mini-card mini-card-two"><i data-lucide="gift"></i></div>
     </div>
@@ -411,7 +411,7 @@ function LetterPage() {
         </div>
         <div class="letter-body" id="letter-body">
           <p class="letter-salutation">My dearest ${NAME},</p>
-          <p>Happy 20th birthday to the person who makes my heart feel safe and my life feel full. Your smile can rescue my hardest day, and your presence turns simple moments into memories I never want to lose.</p>
+          <p>Happy 18th birthday to the person who makes my heart feel safe and my life feel full. Your smile can rescue my hardest day, and your presence turns simple moments into memories I never want to lose.</p>
           <p>I hope this new chapter brings you gentle mornings, loud laughter, brave dreams, and every kind of happiness you deserve. I am so proud of the person you are and so excited for everything you are becoming.</p>
           <p>Thank you for being my favorite hello, my calm, my chaos, and my most beautiful surprise.</p>
           <strong class="letter-sign">Always yours, with all my love.</strong>

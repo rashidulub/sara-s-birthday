@@ -1019,7 +1019,7 @@
         <p class="cut-help" id="gift-hint" style="position:static;transform:none">tap the box to accept your gift</p>
 
         <div class="gift-reveal hidden" id="gift-reveal">
-          <h3>Happy 20th Birthday, ${NAME}</h3>
+          <h3>Happy 18th Birthday, ${NAME}</h3>
           <p>
             The real gift is not in this box. It is every chapter you just walked through, the locked door only you
             could open, the scratch card, the love meter that refused to stop at 100, the letter, the photo bank, and
