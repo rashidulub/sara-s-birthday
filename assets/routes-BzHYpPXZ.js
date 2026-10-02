@@ -8,7 +8,7 @@ function a() {
       (e.BDY_ATM_BG = `/assets/atm-booth.jpg`),
         (e.BDY_ASSETS = {
           happyBirthday: `/assets/happy-birthday.png`,
-          cheekLove: `/assets/cheek-love.mp4`,
+          cheekLove: `/assets/hug.mp4`,
           hugBears: `/assets/hug-bears.mp4`,
           iLoveYou: `/assets/i-love-you.mp4`,
           bearCake: `/assets/bear-cake.jpeg`,
