@@ -306,7 +306,7 @@
 
     function receiptHTML() {
       return `<b>PHOTO BANK</b><hr />
-        <div class="receipt-line"><span>DATE</span><span>25 AUG</span></div>
+        <div class="receipt-line"><span>DATE</span><span>10 October</span></div>
         <div class="receipt-line"><span>CARD</span><span>**** LOVE</span></div><hr />
         <div class="receipt-line"><span>Photos Viewed</span><span>${
           state.viewed
