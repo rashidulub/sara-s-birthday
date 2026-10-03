@@ -28,8 +28,8 @@
   ];
   const BALANCE = [
     { label: "Smile", value: "100%", pct: 100 },
-    { label: "Funny Moments", value: "97%", pct: 97 },
-    { label: "Late Replies", value: "89%", pct: 89 },
+    { label: "Funny Moments", value: "85%", pct: 85 },
+    { label: "Late Replies", value: "90%", pct: 90 },
     { label: "Kindness", value: "∞", pct: 100 },
   ];
 
@@ -1021,9 +1021,17 @@
         <div class="gift-reveal hidden" id="gift-reveal">
           <h3>Happy 18th Birthday, ${NAME}</h3>
           <p>
-            The real gift is not in this box. It is every chapter you just walked through, the locked door only you
-            could open, the scratch card, the love meter that refused to stop at 100, the letter, the photo bank, and
-            a cake cut with your own hands.
+            The real gift isn’t inside this box.
+
+It’s in every little moment, every memory, every word, and every feeling that was created just for you.
+
+I hope that when you look back at this day someday, you’ll remember how special you were made to feel.
+
+Keep all of it close to your heart—
+**no expiry, no conditions, just yours. Forever.** 🤍
+
+**Happy Birthday Saraa. 🎂✨**
+
           </p>
           <p>Consider all of it yours. Forever. No expiry, no conditions.</p>
           <div class="gift-coupons">
