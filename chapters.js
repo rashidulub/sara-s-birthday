@@ -16,15 +16,15 @@
      ================================================================= */
   const PIN = "0410";
   const MEMORIES = [
-    { img: "/assets/images/atm/photo-1.jpg", caption: "Favorite Photo ❤️" },
-    { img: "/assets/images/atm/photo-2.jpg", caption: "Looking Good ✨" },
-    { img: "/assets/images/atm/photo-3.jpg", caption: "Just Vibing 🌙" },
+    { img: "/assets/photo-1.jpg", caption: "Favorite Photo ❤️" },
+    { img: "/assets/photo-2.jpg", caption: "Looking Good ✨" },
+    { img: "/assets/photo-3.jpg", caption: "Just Vibing 🌙" },
     {
-      img: "/assets/images/atm/photo-4.jpg",
+      img: "/assets/photo-4.jpg",
       caption: "Today, Your Big Day 🎂",
     },
-    { img: "/assets/images/atm/photo-5.jpg", caption: "That Look ✨" },
-    { img: "/assets/images/atm/photo-6.jpg", caption: "Effortless 🖤" },
+    { img: "/assets/photo-5.jpg", caption: "That Look ✨" },
+    { img: "/assets/photo-6.jpg", caption: "Effortless 🖤" },
   ];
   const BALANCE = [
     { label: "Smile", value: "100%", pct: 100 },
